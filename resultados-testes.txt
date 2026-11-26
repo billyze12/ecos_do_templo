@@ -1,0 +1,23 @@
+Compilação: SUCESSO
+
+Execução dos testes:
+[OK] dado manual
+[OK] dado aleatório no intervalo
+[OK] entrada manual inválida
+[OK] movimento normal
+[OK] efeito 4->8
+[OK] efeito 9->5
+[OK] efeito 13->18
+[OK] efeito 20->14
+[OK] efeito 24->28
+[OK] efeito 27->22
+[OK] limite por ultrapassagem
+[OK] casa partilhada permitida
+[OK] sem encadeamento
+[OK] vitória e terminação
+[OK] não aceita jogada depois da vitória
+[OK] reinício
+[OK] dado inválido não altera estado
+[OK] partida completa determinística
+
+Resultado: 18 sucesso(s), 0 falha(s).
