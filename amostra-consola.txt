@@ -1,0 +1,13 @@
+=== ECOS DO TEMPLO ===
+Explorador 1: 1 | Explorador 2: 1
+Modo de dado: manual (M) ou aleatório (A)? M
+Vez de Explorador 1. Introduza 1-6, R reiniciar ou Q sair: 3
+Explorador 1 lançou 3.
+Movimento: 1 -> 4.
+Efeito: avanço! 4 -> 8.
+Posições: Explorador 1: 8 | Explorador 2: 1
+Vez de Explorador 2. Introduza 1-6, R reiniciar ou Q sair: 2
+Explorador 2 lançou 2.
+Movimento: 1 -> 3.
+Posições: Explorador 1: 8 | Explorador 2: 3
+(Excerto ilustrativo; a execução real pode variar conforme as entradas.)
